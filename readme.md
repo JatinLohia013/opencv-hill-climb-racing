@@ -10,12 +10,6 @@ This project demonstrates how hand tracking and gesture recognition can be integ
 
 ---
 
-## 🎥 Demo
-
-<video controls src="Screen Recording 2026-08-04 224517.mp4" title="Title"></video>
-
----
-
 ## ✨ Features
 
 - 🖐️ Real-time hand detection using MediaPipe
