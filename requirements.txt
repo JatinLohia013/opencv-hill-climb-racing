@@ -1,0 +1,2 @@
+open-cv (Version: 4.12.0.88)
+mediapipe (Version: 0.10.14)
